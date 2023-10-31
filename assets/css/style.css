@@ -390,6 +390,9 @@ h6 {
 .navbar-mobile .dropdown>.dropdown-active {
   display: block;
 }
+.cb{
+  color:#496DFF !important;
+}
 .color-blue{
   color:#F7F7F7 !important;
 }
