@@ -386,6 +386,9 @@ h6 {
 .navbar-mobile .dropdown ul li:hover>a {
   color: #5D62DB;
 }
+.minus-mar{
+  margin-top: -10px !important;
+}
 
 .navbar-mobile .dropdown>.dropdown-active {
   display: block;
@@ -394,7 +397,7 @@ h6 {
   color:#496DFF !important;
 }
 .color-blue{
-  color:#F7F7F7 !important;
+  color:white !important;
 }
 
 /*--------------------------------------------------------------
