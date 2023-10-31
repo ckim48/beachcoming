@@ -497,15 +497,21 @@ h6 {
 #hero .product-screens .product-screen-1 {
   position: absolute;
   z-index: 30;
-  left: calc(50% + 54px);
+  left: calc(23% + 54px);
   bottom: 0;
   top: 30px;
 }
-
+.my-bullet h4{
+  weight: 700;
+}
+.my-bullet li{
+  weight: 700;
+  font-size: 17px;
+}
 #hero .product-screens .product-screen-2 {
   position: absolute;
   z-index: 20;
-  left: calc(50% - 154px);
+  left: calc(26% - 154px);
   bottom: 0;
   top: 90px;
 }
@@ -513,9 +519,16 @@ h6 {
 #hero .product-screens .product-screen-3 {
   position: absolute;
   z-index: 10;
-  left: calc(50% - 374px);
+  left: calc(33% - 374px);
   bottom: 0;
   top: 150px;
+}
+.my-bullet{
+  color: white;
+  position: absolute;
+    bottom: 0;
+    left: calc(52% - 4px);
+  top: 440px;
 }
 
 @media (max-width: 767px) {
